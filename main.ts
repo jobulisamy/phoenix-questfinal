@@ -1800,7 +1800,7 @@ let PhoenixGem = 0
 let keysTrue = 0
 let level = 0
 game.splash("Phoenix Quest")
-game.showLongText("Instructions: AD to move, Space to jump, collect keys and coins, find the Gem. Hint: Try double jumping. ", DialogLayout.Bottom)
+game.showLongText("Instructions: AD to move, Space to jump, collect keys and coins, find the Gem. Hint: Try double jumping in Level 4. ", DialogLayout.Bottom)
 level = 0
 setup_level()
 create_man()
